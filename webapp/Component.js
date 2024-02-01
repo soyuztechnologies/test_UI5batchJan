@@ -6,6 +6,7 @@ sap.ui.define([
         metadata: {
             manifest: "json"
         },
+        //comment by Ananya
         init: function(){
             //we will call the parent class constructor
             UIComponent.prototype.init.apply(this);
